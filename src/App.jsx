@@ -3,7 +3,7 @@ import Nav from "./component/Nav";
 import Footer from "./component/Footer";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
-import Course from "./pages/course";
+import Course from "./pages/Course";
 import Exercices from "./pages/Exercices";
 import Quiz from "./pages/Quiz";
 import Parametres from "./pages/Parametres";
