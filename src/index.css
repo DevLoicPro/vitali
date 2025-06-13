@@ -1,0 +1,27 @@
+/* import de taillwind */
+@import "tailwindcss";
+
+/* vitali logo font */
+@font-face {
+  font-family: 'Playball';
+  src: url('./assets/fonts/Playball.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* police de l'application vitali */
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/Inter.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.playball {
+  font-family: 'Playball', cursive;
+}
+
+.inter {
+  font-family: 'Inter', cursive;
+}
