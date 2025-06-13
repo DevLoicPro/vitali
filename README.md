@@ -1,12 +1,25 @@
-# React + Vite
+# 🌿 Vitali – Learn. Grow. Thrive.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Vitali** is a modern e-learning web application designed to educate and empower users in life sciences, environment, health, and education. With a clean UI and dynamic learning content (quizzes, exercises, courses), Vitali helps users grow in knowledge and understanding at their own pace.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🧠 **Quizzes & Exercises**: Interactive learning sessions to test your knowledge.
+- 📚 **Courses**: Structured content organized by modules, sequences, and sessions.
+- 👤 **User Registration**: Choose your subscription plan (Basic, Standard, Premium).
+- 🔐 **Authentication**: Secure login and registration interface.
+- 🛠️ **Admin Dashboard**: Full admin control for managing users and course content.
+- 📱 **Responsive UI**: Designed for desktop and mobile with TailwindCSS + React.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React + Vite
+- **Styling**: Tailwind CSS
+- **Routing**: React Router
+- **Icons**: React Icons & Lucide
+- **Animations**: Framer Motion
+- **Backend**: Node.js + Express (planned)
+- **Database**: MySQL (planned)
+
+## 📂 Project Structure
+
