@@ -51,7 +51,7 @@ export default function Home() {
 						whileTap={{ scale: 0.95 }}
 						className="px-8 py-3 bg-gradient-to-r from-teal-500 to-indigo-600 text-white font-semibold rounded-full hover:shadow-lg transition-all flex justify-center items-center gap-2"
 					>
-						Commencere maintenant <ChevronRight size={18} />
+						Commencer maintenant <ChevronRight size={18} />
 					</motion.button>
 
 					<motion.button
