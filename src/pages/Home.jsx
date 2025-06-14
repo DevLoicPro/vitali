@@ -11,6 +11,7 @@ import {
 	Rocket,
 } from "lucide-react";
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 
 export default function Home() {
 	return (
@@ -59,7 +60,8 @@ export default function Home() {
 						whileTap={{ scale: 0.95 }}
 						className="px-8 py-3 bg-white border-2 border-teal-500 text-teal-600 font-semibold rounded-full hover:bg-teal-50 transition-colors"
 					>
-						Découvrir les fonctionnalités
+						<Link to='/dashboard'>Administrateur</Link>
+						{/* <span className="">Découvrir les fonctionnalités</span> */}
 					</motion.button>
 				</div>
 			</motion.header>
